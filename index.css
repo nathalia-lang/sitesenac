@@ -1,6 +1,10 @@
 body{
   background: #ed68a2;
 background: radial-gradient(circle, rgba(237, 104, 162, 1) 9%, rgba(255, 152, 61, 1) 53%, rgba(255, 74, 74, 1) 100%);
+
+display:flex;
+  justify-content:center;
+  align-items:center;
 }
 
 form {
